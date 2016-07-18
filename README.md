@@ -1,6 +1,6 @@
 # Pentadactyl Darkness Theme
 
-This is the color scheme for Pentadactyl add-ons on Firefox. It uses the color palette, designed by Jason Kwan.
+This is the color scheme for Pentadactyl add-ons on Firefox. History will be the "colorscheme", you need not again. It uses the color palette, designed by Jason Kwan.
 
 ### License
 
