@@ -10,7 +10,7 @@ Very thanks for claytron.
 
 ### Install
 
-To install this color scheme, change dactyl.css, global-styles.css and help-styles to ~/chrome/common/skin in XPI, then the color scheme will be default theme, you need not add to ~/.pentadactylrc again.
+To install this color scheme, change dactyl.css, global-styles.css and help-styles to ~/chrome/common/skin in XPI, then the color scheme will be default theme, you need not "colorscheme" again.
 
 ### Pentadactyl's Screenshots on Firefox
 
