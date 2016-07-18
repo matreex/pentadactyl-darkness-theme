@@ -63,6 +63,12 @@ To install this color scheme, change dactyl.css, global-styles.css and help-styl
 
 
 
+#### :Help
+<a href="http://imgbox.com/3Z7XfjZ4" target="_blank"><img src="http://i.imgbox.com/3Z7XfjZ4.png" alt="image host"/></a>
+
+
+
+
 
 
 
